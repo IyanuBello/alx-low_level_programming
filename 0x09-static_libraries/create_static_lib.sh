@@ -1,0 +1,1 @@
+#!/bin/bashar rcs liball.a 0-isupper.c 0-strcat.c 100-atoi.c  1-isdigit.c 2-mul.c 2-strlen.c 3-islower.c 3-puts.c 4-isalpha.c  6-abs.c 
